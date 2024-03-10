@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peacemaker675" alt="peacemaker675" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peacemaker675&theme=onedark" alt="peacemaker675" /></a> </p>
 <img align="right" alt="Coding" width="600" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmU5bXR6MTQxejZ3ZGtqNTVwYTQya2NhcjdjMG1uN3p0YmNkc2l0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 
