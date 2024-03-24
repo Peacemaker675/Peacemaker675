@@ -16,6 +16,7 @@
 <a href="https://www.linkedin.com/in/tushar-gurjar-309b92290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar gurjar" height="30" width="40" /></a>
 <a href="https://instagram.com/t_hat_guy21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t_hat_guy21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tushar_gurjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar_gurjar" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/peacemaker" target="blank"><img align="center" src="https://coursereport-production.imgix.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="tushar_gurjar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
