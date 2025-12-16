@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently working on deep research tool that combines web crawling with generative AI , a system similar to RAG based models.
-DM me on linkedin for collaborations for project !
+I am 3rd year CS student. I mainly use python and c++ for my projects, I am familiar with the tools and frameworks listed below. DM me on discord@peacemaker675 or my linkedin if you have some great project ideas we can collaborate on !
 
 
 # 💻 Tech Stack:
